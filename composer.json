@@ -1,0 +1,19 @@
+{
+    "name": "niranjan94/tk-repo-lib",
+    "description": "tk-repo-lib",
+    "type": "package",
+    "authors": [
+        {
+            "name": "Niranjan Rajendran",
+            "email": "niranjan94@yahoo.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+      "psr-0" : {
+        "Tools" : "src"
+      }
+    }
+}
